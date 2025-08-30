@@ -21,4 +21,3 @@ I aim to develop a Chrome extension that tracks user activity and displays a vis
 
 <img width="621" height="542" alt="Image" src="https://github.com/user-attachments/assets/20878181-16ff-404b-a7de-db13d25eba30" />
 
-<img width="822" height="577" alt="Image" src="https://github.com/user-attachments/assets/7bbb622b-a7f7-43c3-b0b3-1e5d1fc9a99a" />
